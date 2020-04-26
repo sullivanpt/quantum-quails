@@ -1,0 +1,27 @@
+{
+  "name": "quantum-quails",
+  "version": "1.0.0",
+  "description": "avian tutors for quantum computing operations",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server public --port=3000 --wait=1000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sullivanpt/quantum-quails.git"
+  },
+  "keywords": [
+    "quantum",
+    "game"
+  ],
+  "author": "Patrick Sullivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sullivanpt/quantum-quails/issues"
+  },
+  "homepage": "https://github.com/sullivanpt/quantum-quails#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
